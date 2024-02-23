@@ -274,6 +274,7 @@ margin-left: 50px;
     padding: 15px 23px;
     border-radius: 8px;
     max-width: 95%;
+    cursor: pointer;
 }
 .button2 {
     background-color: #eb107e;
@@ -282,6 +283,7 @@ margin-left: 50px;
     color: white;
     padding: 15px 23px;
     border-radius: 8px;
+    cursor: pointer;
 }
 .button3 {
     background-color: #eb107e;
@@ -290,6 +292,7 @@ margin-left: 50px;
     color: white;
     padding: 15px 23px;
     border-radius: 8px;
+    cursor: pointer;
 }
 /* back-ground picture section */
 .git {
